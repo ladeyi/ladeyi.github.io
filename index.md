@@ -2,15 +2,16 @@
 layout: default
 ---
 
-Welcome to my blog
+# Welcome to my blog
+----
 
-[Link to another page](cayman/another-page).
+[<i class="icon-refresh"></i> 点我刷新](/sonfilename/)
 
-```
->this is a test for code
-```
-> this is a test for 
 
-- this is a test for
 
-ok,lei's begin!
+## [王者荣耀攻略](Glory_of_the_king/attack_strategy.md, "看完你就王者啦")
+
+![Alt text](Glory_of_the_king/king.jpg "Optional title")
+
+
+
