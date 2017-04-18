@@ -6,7 +6,7 @@ layout: default
 ----
 
 
-> ## [王者荣耀攻略](Glory_of_the_king/attack_strategy.md)
+> ## [王者荣耀攻略](Glory_of_the_king/attack_strategy)
 
 ![Alt text](Glory_of_the_king/images/king.jpg "Optional title")
 
